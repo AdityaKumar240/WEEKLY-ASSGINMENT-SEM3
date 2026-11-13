@@ -3,6 +3,8 @@
 ## Date: 13-11-2026
 
 **Today's Work:**
+- Completed Week 11 sorting assignments: Height Line-Up, Prize Table, Library Book Shelf, Is the Queue in Order?, and Dice Throw Tally.
+- Added all 5 Java solutions to `feature/session_11` under `sorting_algorithms/assigment_problems`.
 - Completed Week 10 array assignments: Busiest Bus Row, Class Attendance Tracker, Duty Roster Rotation, Exam Score Band Counter, and Second-Best Score.
 - Added all 5 Java solutions to `feature/session_10` under `arrays/assigment_problems`.
 - Completed Week 8 (Polymorphism) and Week 9 (Abstraction and Interfaces) assignments.
